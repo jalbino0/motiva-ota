@@ -263,14 +263,6 @@ O aviso `No core dump partition found` também apareceu: a tabela usada não res
 
 ---
 
-## Entrega
-
-O relatório final deve ser entregue em PDF, conforme o enunciado, com os links públicos, identificação dos integrantes, arquitetura, instruções, códigos-fonte, manifesto e referência ao binário utilizado. Este README complementa a documentação e não substitui o relatório exigido.
-
-O projeto Wokwi, o repositório e os arquivos de atualização devem permanecer acessíveis por pelo menos **10 dias** para validação do professor.
-
----
-
 ## Finalidade Acadêmica
 
 Projeto desenvolvido para fins acadêmicos na **FIAP**.
